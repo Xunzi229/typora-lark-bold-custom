@@ -1,6 +1,6 @@
 # typora-lark-custom.css
 
-基于 https://github.com/imageslr/typora-theme-lark/releases/
+基于 https://github.com/imageslr/typora-theme-lark
 
 
 
