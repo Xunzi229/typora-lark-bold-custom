@@ -17,4 +17,4 @@
 # 样式如下
 
 
-![image-exmaple](assets/example.png)
+<img src="assets/example.png" alt="image-exmaple"/>
