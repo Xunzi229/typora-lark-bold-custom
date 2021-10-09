@@ -16,5 +16,5 @@
 
 # 样式如下
 
+<img src="assets/example01.png" alt="image-exmaple"/>
 
-<img src="assets/example.png" alt="image-exmaple"/>
